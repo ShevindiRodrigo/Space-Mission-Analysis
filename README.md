@@ -26,10 +26,12 @@ The project uses a **star schema** model to support efficient reporting and scal
 **Repository Structure:**
 Additional folder structure from the repository:
 
+```
 /data → Contains the original and cleaned Excel data files
 /reports → Power BI dashboard file (Space Mission.pbix)
 /docs → Supporting documentation and analysis summary
 README.md → Project overview and usage guide
+```
 
 # 📈 Executive Summary
 The Power BI dashboard provides a comprehensive overview of the global space mission landscape. It includes:
@@ -47,7 +49,6 @@ The Power BI dashboard provides a comprehensive overview of the global space mis
 - **Power Query** – ETL processes  
 - **Power BI** – Data modeling and dashboard creation  
 - **DAX** – Custom KPIs and time intelligence functions  
-
 ---
 
 # 🔍 Insights Deep Dive
