@@ -88,6 +88,7 @@ SUM(FactMission[Cost])
 
 Total Mission YoY% = 
 DIVIDE([Total Missions] - [LY Missions], [LY Missions])
+```
 
 # ✅ Recommendations
 
