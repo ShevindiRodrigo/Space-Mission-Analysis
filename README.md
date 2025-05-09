@@ -23,6 +23,7 @@ The project uses a **star schema** model to support efficient reporting and scal
 | `DimLocation`  | Country and launch site mapping                                         |
 | `DimRocket`    | Rocket types and specifications                                         |
 
+![image](https://github.com/ShevindiRodrigo/Space-Mission-Analysis/blob/main/docs/data%20model.png)
 **Repository Structure:**
 Additional folder structure from the repository:
 
