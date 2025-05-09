@@ -128,4 +128,5 @@ Encourage global cooperation to reduce redundancy and optimize launch infrastruc
 | **Duration**      | 1–2 weeks                                |
 | **Target Audience** | Aerospace Analysts, Government, BI Teams |
 
-![image](https://github.com/ShevindiRodrigo/Space-Mission-Analysis/blob/0149f16b7d913fb9c7c6d3abf6a0fae82b340f5e/docs/Space%20Mission.pdf)
+![image](![image](https://github.com/user-attachments/assets/9c4692a0-d9f9-40b6-a7c7-8236ae77206b)
+)
